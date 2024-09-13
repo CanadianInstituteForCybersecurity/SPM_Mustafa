@@ -10,5 +10,5 @@ python:
   - "3.10"
 
 script:
-  - echo -e "1\n2" | python script.py
+  - echo -e "1\n2" | python3 script.py
 
